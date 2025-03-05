@@ -1,0 +1,27 @@
+{
+  "name": "practical2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": { "start": "node app.js", "dev": "nodemon app.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sonam43/practical2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sonam43/practical2/issues"
+  },
+  "homepage": "https://github.com/Sonam43/practical2#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
